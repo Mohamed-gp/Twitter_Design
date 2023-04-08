@@ -1,2 +1,2 @@
-# twiiter_design
+# twiter_design
 first_design
